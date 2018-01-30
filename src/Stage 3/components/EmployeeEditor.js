@@ -12,7 +12,6 @@ class EmployeeEditor extends Component {
     this.handleChange = this.handleChange.bind(this);
     this.save = this.save.bind(this);
     this.cancel = this.cancel.bind(this);
-    this.componentWillReceiveProps = this.componentWillReceiveProps.bind(this)
   }
 
   // componentWillReceiveProps
